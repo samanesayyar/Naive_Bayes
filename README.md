@@ -1,6 +1,3 @@
 # Naive_Bayes
 
 
-
-
-
